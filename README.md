@@ -31,3 +31,12 @@
 13. Goto that link and choose your server and click authorize.
 
 **There you go! You now have Personal Echo!**
+
+
+### Send me Fanmail!
+```
+Joshsua Cleland
+38904 Stapley Circle
+Zephyrhills FL, 33540
+810-882-1603
+```
