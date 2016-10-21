@@ -1,0 +1,9 @@
+{
+   "\u0026--runjoker": "{req:Administrator}{if:channel==spam}{plugin:thejoker}",
+   "\u0026--runspam": "{req:Administrator}{if:channel==spam}{plugin:thespammer}",
+   "\u0026--runtest": "{if:channel==spam}{plugin:openwide}",
+   "\u0026.gg/": "{exc:The Staff}{del}{redirect:187325123806756864}{msg:Your invite has been redirected to \u003c#187325123806756864\u003e}",
+   "--blah": "blah",
+   "--bye": "{bye}",
+   "--greet": "{greet}"
+}

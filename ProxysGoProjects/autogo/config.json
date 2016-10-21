@@ -1,0 +1,17 @@
+{
+  "Bot":			"",
+  "Admin":			"",
+  "Status":			"What's Up!",
+  "BotMaster": 		false,
+  "BotCommander":	"",
+  "CmdsRun":		0,
+  "Prefix":			"--",
+  "GreetMsg":		"Welcome {user}! If you need anything feel free to ask!",
+  "ByeMsg":			"{user} has left the server.",
+  "RoleSys":		"",
+  "Name":			"",
+  "AntiLink":		false,
+  "Action":			"kick",
+  "Silent":			false,
+  "HelpCmd":		"```ruby\nYour Bot Name\n-------\n--greet, --bye, --prefix\n--kick, --ban, --autorole\n --setpunish, --allowlinks, --denylinks\n--help, --addmaster, --delmaster```"
+}

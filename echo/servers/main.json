@@ -1,0 +1,20 @@
+{
+   "Prefix": "--",
+   "GreetMsg": "{pm}Welcome {/user} if you need any help with Echo make sure to view his website \u003chttp://echobot.tk\u003e If you are still having problems try his wikia page \u003chttp://echo-bot.wikia.com/wiki/Echo_Bot_Wikia\u003e Still need help? Ask in our support channel.",
+   "ByeMsg": "{pm}Sorry to see you go user!",
+   "RoleSys": "User",
+   "Owner": "146046383726657536",
+   "Name": "!Echo's Revenge²",
+   "AntiLink": false,
+   "Action": "ban",
+   "Log": "189008953064161290",
+   "LogType": "master",
+   "Silent": false,
+   "Active": "",
+   "BotAuto": "Other Bots",
+   "BotMaster": "Administrator",
+   "AutoPerms": false,
+   "Warnings": 3,
+   "Password": "18731460",
+   "Pulse": 1
+}

@@ -1,0 +1,15 @@
+{
+	"Greet": 		"greet",
+	"Bye":			"bye",
+	"Prefix":		"prefix",
+	"Kick":			"kick",
+	"Ban":			"ban",
+	"Autorole":		"autorole",
+	"SetPunish":	"setpunish",
+	"AllowLinks":	"allowlinks",
+	"DenyLinks":	"denylinks",
+	"Help":			"help",
+	"AddMaster":	"addmaster",
+	"DelMaster":	"delmaster",
+	"Status":		"status"
+}

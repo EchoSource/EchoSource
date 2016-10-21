@@ -1,0 +1,16 @@
+{
+   "Prefix": "!!",
+   "GreetMsg": "",
+   "ByeMsg": "",
+   "RoleSys": "",
+   "Owner": "146046383726657536",
+   "Name": "!Echo's Revenge²",
+   "AntiLink": false,
+   "Action": "ban",
+   "Silent": false,
+   "Active": "",
+   "BotAuto": "",
+   "BotMaster": "",
+   "AutoPerms": false,
+   "Warnings": 3
+}

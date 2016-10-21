@@ -1,0 +1,12 @@
+```ruby
+╠═[Echo v1.6.5]
+╠→Servers: {servers}
+╠→Uptime: {uptime}s
+╠→Commands Ran: {cmdrequests}
+╠→Messages: {msgcount}
+╠→Channels: {channelcount}
+╠→Members: {membercount}
+╠→Roles: {rolecount}
+```
+View the changelog for more information!
+Will be editing this more later.

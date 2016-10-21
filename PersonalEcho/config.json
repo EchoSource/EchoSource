@@ -1,0 +1,16 @@
+{
+   "Bot": "YOUR-BOT-TOKEN",
+   "Admin": "YOUR-USER-ID",
+   "Status": 0,
+   "BotMaster": false,
+   "BotCommander": "",
+   "CmdsRun": 0,
+   "TwitterConsumerKey": "",
+   "TwitterConsumerSecret": "",
+   "TwitterToken": "",
+   "TwitterTokenSecret": "",
+   "TwitterAutoUpdateStats": "",
+   "AutoStatusChange": "",
+   "AutoInfoCheck": "",
+   "AutoTweet": ""
+}

@@ -1,0 +1,6 @@
+```ruby
+╠═[AutoGo v2.0.0]
+╠→library: DiscordGo
+╠→servers: {servers}
+╠→requests: {cmdrequests}
+A List of my commands have been sent to your DM.```
